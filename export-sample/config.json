@@ -1,0 +1,7 @@
+{
+    "type": "export",
+    "output": "{OUTPUT FILE NAME}",
+    "entry_file": "{ENTRY FILE NAME}",
+    "name": "{NAME OF THE PLUGIN}",
+    "description": "{PLUGIN DESCRIPTION}"
+}
